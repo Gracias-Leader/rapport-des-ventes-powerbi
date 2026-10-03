@@ -96,36 +96,6 @@ Le rapport a été adapté à l'affichage **Power BI Mobile** (mise en page mobi
 
 ---
 
-## 📁 Structure du dépôt
-
-```
-.
-├── Synthèse_des_ventes.pbix
-├── README.md
-└── images/            # captures d'écran (à ajouter)
-```
-
----
-
-## 🖼️ Aperçu
-
-<!-- Ajouter tes captures d'écran dans /images puis décommenter -->
-<!-- ![Vue du rapport](images/vue-du-rapport.png) -->
-<!-- ![Synthèse des bénéfices](images/synthese-benefices.png) -->
-<!-- ![Version mobile](images/mobile.png) -->
-
----
-
-## ▶️ Utilisation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/Gracias-Leader/<nom-du-depot>.git
-   ```
-2. Ouvrir `Synthèse_des_ventes.pbix` avec **Power BI Desktop**.
-3. Vérifier la source de données si besoin (*Accueil → Transformer les données → Paramètres de la source de données*).
-
----
 
 ## 👤 Auteur
 
