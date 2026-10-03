@@ -70,8 +70,8 @@ Les visuels clés (cartes KPI, graphiques principaux) ont été **épinglés** s
 ### 3. Alertes de données
 Des **alertes** ont été créées sur les tuiles du tableau de bord (cartes/KPI). Elles envoient une notification lorsqu'une valeur franchit un seuil défini.
 
-- Indicateurs surveillés : `[à compléter, ex. bénéfice cumulé YTD, ventes médianes]`
-- Seuils : `[à compléter]`
+- Indicateurs surveillés : bénéfice cumulé YTD, ventes médianes]
+- Seuils : 400
 - Fréquence de notification : `[à compléter]`
 
 > ℹ️ Les alertes ne fonctionnent que sur les tuiles d'un **tableau de bord** de type carte, jauge ou KPI. C'est la raison de l'étape d'épinglage.
@@ -79,8 +79,8 @@ Des **alertes** ont été créées sur les tuiles du tableau de bord (cartes/KPI
 ### 4. Abonnements
 Des **abonnements** ont été définis pour recevoir automatiquement par e-mail un aperçu du rapport/tableau de bord.
 
-- Fréquence : `[à compléter, ex. quotidien / hebdomadaire]`
-- Destinataires : `[à compléter]`
+- Fréquence : quotidien
+- Destinataires : Adventure Works
 
 ### 5. Version mobile
 Le rapport a été adapté à l'affichage **Power BI Mobile** (mise en page mobile : visuels réorganisés en colonne pour l'écran du téléphone), ce qui permet de consulter les indicateurs et de recevoir les alertes en déplacement.
